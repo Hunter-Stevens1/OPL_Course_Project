@@ -42,10 +42,6 @@ public class Main {
     
     public static void main(String[] args) {
         
-        //TEST SUITE FOR PP
-        JExpr test;
-        JNum j = new JNum(1);
-        System.out.println(j.pp());
     }
     
 }
